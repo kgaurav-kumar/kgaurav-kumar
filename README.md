@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gaurav Kumar<br><br>🚀 Full-Stack Web Developer & AI Enthusiast<br>💻 Passionate about building scalable web applications, integrating AI solutions, and solving real-world problems through technology.<br>🌱 Always learning, building, and exploring new technologies.<br>📫 Reach me: gau.kumar9520@gmail.com
+👋 Hi, I'm Gaurav Kumar<br><br>🚀 Full-Stack Web Developer & AI Enthusiast<br>💻 Passionate about building scalable web applications, integrating  AI solutions, and solving real-world problems through technology.<br>🌱 Always learning, building, and exploring new technologies.<br>📫 Reach me: gau.kumar9520@gmail.com
 
 
 ## 🌐 Socials:
